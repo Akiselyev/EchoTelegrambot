@@ -1,3 +1,3 @@
 # Exobotaiogramtelegram
 This is an echo bot. He will repeat everything you write.
-if you want to copy this code, write me.
+if you want to copy this code, copy it.
